@@ -1,0 +1,25 @@
+# Python / Django
+*.pyc
+__pycache__/
+*.sqlite3
+*.log
+.env
+db.sqlite3
+
+# Virtualenv
+venv/
+env/
+
+# Frontend
+node_modules/
+dist/
+
+# ESP32
+*.bin
+*.elf
+*.hex
+
+# VSCode / Système
+.vscode/
+.DS_Store
+Thumbs.db
